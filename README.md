@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Primeiro projeto com ReactJS
+  Aplicação web com ReactJS
 </h3>
 
 <p align="center">
